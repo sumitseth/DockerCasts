@@ -1,7 +1,7 @@
 repo_name: sumitseth/DockerCasts
-report_id: 5673ee5995c67198962457e315f6a584
+report_id: 75e4d49248987abaabe6bd99c15e3dd2
 repo_type: Public
-timestamp: '2023-11-09T02:57:41+00:00'
+timestamp: '2023-11-09T04:13:13+00:00'
 requested_by: sumitseth
 provider: github
 branch: master
@@ -143,7 +143,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
-  detection_source: complex/worker/package.json
+  detection_source: complex/server/package.json
 - name: PonyDebugger
   description: Remote network and data debugging for your native iOS app using Chrome
     Developer Tools
